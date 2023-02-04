@@ -10,7 +10,9 @@ Primary objectives:
 
 Secondary objectives:
 - [x] Provide owners with a easy to use interface available via IOS app
+- [x] Provide end - end setup through network configuration via IOS app
 - [ ] Create a model that would facilitate standardized food canisters(i.e waterbottles, or any sealable lid with standard threading) (In Progress)
-
+- [ ] Enforce headers in API requests
+- [ ] Enforce https on API host
 
 

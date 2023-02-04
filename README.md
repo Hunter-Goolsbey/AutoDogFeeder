@@ -10,7 +10,7 @@ Primary objectives:
 
 Secondary objectives:
 - [x] Provide owners with a easy to use interface available via IOS app
-- [] Create a model that would facilitate standardized food canisters(i.e waterbottles, or any sealable lid with standard threading) (In Progress)
+- [ ] Create a model that would facilitate standardized food canisters(i.e waterbottles, or any sealable lid with standard threading) (In Progress)
 
 
 

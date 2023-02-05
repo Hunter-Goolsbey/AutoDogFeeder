@@ -22,6 +22,8 @@ Secondary objectives:
 Additional features:
 - [ ] "Buddy System": Coordinated feed / water management with water-level monitoring and modular canister design
 - [ ] Setup step-by-step for IOS
+- [ ] Refine dynamic constraints to work with IPad & Iphone
+- [ ] Add "Feed Me" manual feed button to AppleWatch (This had previously been a challenge to do given weird networking characteristics of WatchOS)
 - [ ] Expand application to Android / Google
 - [ ] Enable twilio account configuration and notification
 - [ ] Expand IOS app to include user-feedback for successful field entries and timer updates

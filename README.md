@@ -7,6 +7,7 @@ Primary objectives:
 - [x] Ensure full controll and accessibility to Auto-Feeder settings for the pet-owner
 - [x] Ensure stable connections to RestfulAPI and connected systems
 - [x] Ensure physical build secures rotating junctions from pinching hands
+- [ ] Ensure setup is reachable to all users via html setup page
 
 Secondary objectives:
 - [x] Provide owners with a easy to use interface available via IOS app
@@ -14,5 +15,16 @@ Secondary objectives:
 - [ ] Create a model that would facilitate standardized food canisters(i.e waterbottles, or any sealable lid with standard threading) (In Progress)
 - [ ] Enforce headers in API requests
 - [ ] Enforce https on API host
+- [ ] Disable AP password ... it's annoying and the communication is limited to AP and Lan; does not touch WAN until after config has been completed with successful Wi-Fi connection
+- [ ] Design Appicon image
+
+Additional features:
+- [ ] "Buddy System": Coordinated feed / water management with water-level monitoring and modular canister design
+- [ ] Setup step-by-step for IOS
+- [ ] Expand application to Android / Google
+- [ ] Enable twilio account configuration and notification
+- [ ] Expand IOS app to include user-feedback for successful field entries and timer updates
+- [ ] Enforce a "Submit" button in app to create a cohesive and predictable experience (currently auto-submits upon any changes to time field)
+- [ ] 
 
 

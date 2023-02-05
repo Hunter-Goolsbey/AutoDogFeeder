@@ -25,6 +25,6 @@ Additional features:
 - [ ] Enable twilio account configuration and notification
 - [ ] Expand IOS app to include user-feedback for successful field entries and timer updates
 - [ ] Enforce a "Submit" button in app to create a cohesive and predictable experience (currently auto-submits upon any changes to time field)
-- [ ] 
+
 
 

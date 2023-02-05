@@ -7,7 +7,7 @@ Primary objectives:
 - [x] Ensure full controll and accessibility to Auto-Feeder settings for the pet-owner
 - [x] Ensure stable connections to RestfulAPI and connected systems
 - [x] Ensure physical build secures rotating junctions from pinching hands
-- [ ] Ensure setup is reachable to all users via html setup page
+- [x] Ensure setup is reachable to all users via html setup page
 
 Secondary objectives:
 - [x] Provide owners with a easy to use interface available via IOS app

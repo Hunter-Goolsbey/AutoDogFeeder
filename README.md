@@ -16,7 +16,7 @@ Secondary objectives:
 - [ ] Enforce headers in API requests
 - [ ] Enforce https on API host
 - [ ] Disable AP password ... it's annoying and the communication is limited to AP and Lan; does not touch WAN until after config has been completed with successful Wi-Fi connection
-- [ ] Design Appicon image
+- [x] Design Appicon image
 
 Additional features:
 - [ ] "Buddy System": Coordinated feed / water management with water-level monitoring and modular canister design

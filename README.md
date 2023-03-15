@@ -8,6 +8,10 @@ Primary objectives:
 - [x] Ensure stable connections to RestfulAPI and connected systems
 - [x] Ensure physical build secures rotating junctions from pinching hands
 - [x] Ensure setup is reachable to all users via html setup page
+- [ ] reduce threads on auger
+- [ ] Decrease auger volume
+- [ ] Decrease clearence space in main tunnel
+- [ ] Investigate food jam
 
 Secondary objectives:
 - [x] Provide owners with a easy to use interface available via IOS app
@@ -18,6 +22,8 @@ Secondary objectives:
 - [ ] Enforce https on API host
 - [ ] Disable AP password ... it's annoying and the communication is limited to AP and Lan; does not touch WAN until after config has been completed with successful Wi-Fi connection
 - [x] Design Appicon image
+- [ ] Change canister mate shape to better facilitate feed rate
+- create Pico enclosure lid
 
 Additional features:
 - [ ] "Buddy System": Coordinated feed / water management with water-level monitoring and modular canister design
